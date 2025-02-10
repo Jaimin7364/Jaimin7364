@@ -15,8 +15,8 @@
 ---
 
 ### 🛠️ Tech Stack
-🔹 **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
-🔹 **Backend:** Node.js, Express.js, MongoDB, Firebase  
+🔹 **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, Flutter 
+🔹 **Backend:** Node.js, Express.js, MongoDB, Firebase, MongoDB  
 🔹 **DevOps & Cloud:** Azure DevOps, GitHub Actions, Docker, CI/CD  
 🔹 **Other Tools:** Vite, Postman, VS Code, Linux, Git, DigitalOcean  
 
@@ -30,10 +30,11 @@
 ---
 
 ### 📢 Let's Connect!
-🌐 **Website:** [s3cloudhub.com](https://s3cloudhub.com)  
+🌐 **Personal Website:** [www.jaiminraval.me](https://www.jaiminraval.me)  
+🌐 **S3CloudHub Website:** [www.s3cloudhub.in](https://www.s3cloudhub.in)  
 📺 **YouTube:** [S3CloudHub](https://www.youtube.com/@s3cloudhub)  
-📩 **Email:** [jaimin@example.com](mailto:jaimin@example.com)  
-🐦 **Twitter:** [@jaiminraval](https://twitter.com/jaiminraval)  
-💼 **LinkedIn:** [Jaimin Raval](https://www.linkedin.com/in/jaiminraval/)  
+📩 **Email:** [hello@jaiminraval.me](mailto:hello@jaiminraval.me)  
+🐦 **Twitter:** [@JaiminRaval100](https://x.com/JaiminRaval100?t=ZVjx3H-CihfeafrtLlg0ZA&s=09)  
+💼 **LinkedIn:** [Jaimin Raval](https://www.linkedin.com/in/jaimin-raval-132751283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 💖 *Let's build, learn, and grow together!* 🚀
