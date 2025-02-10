@@ -6,6 +6,8 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=jaiminraval&label=Profile%20Views&color=blue&style=flat)
+
 ### 🔥 About Me
 - 🎓 Engineering student with a knack for **problem-solving and software development**.
 - 🌍 I specialize in **React.js, Node.js, Express.js, and DevOps workflows**.
