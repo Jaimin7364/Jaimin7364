@@ -31,6 +31,12 @@
 
 ---
 
+## 🚀 Projects
+- 🎰 **Picks7 - Gambling App** → [picks7.com](https://picks7.com)  
+- ✍️ **AI Blog Generator - BlogXpert** → [blogxpert.jaiminraval.me](https://blogxpert.jaiminraval.me)  
+
+---
+
 ### 📢 Let's Connect!
 🌐 **Personal Website:** [www.jaiminraval.me](https://www.jaiminraval.me)  
 🌐 **S3CloudHub Website:** [www.s3cloudhub.in](https://www.s3cloudhub.in)  
