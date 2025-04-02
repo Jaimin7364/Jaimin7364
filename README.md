@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Tech Stack
-🔹 **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, Flutter 
+🔹 **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, Flutter  
 🔹 **Backend:** Node.js, Express.js, MongoDB, Firebase, MongoDB  
 🔹 **DevOps & Cloud:** Azure DevOps, GitHub Actions, Docker, CI/CD  
 🔹 **Other Tools:** Vite, Postman, VS Code, Linux, Git, DigitalOcean  
