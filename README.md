@@ -33,7 +33,7 @@
 
 ## 🚀 Projects
 - 🎰 **Picks7 - Gambling App** → [picks7.com](https://picks7.com)  
-- ✍️ **AI Blog Generator - BlogXpert** → [blogxpert.jaiminraval.me](https://blogxpert.jaiminraval.me)  
+- ✍️ **AI Blog Generator - BlogXpertAI** → [blogxpert-ai.jaiminraval.me](https://blogxpert-ai.jaiminraval.me)  
 
 ---
 
