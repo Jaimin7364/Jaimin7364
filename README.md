@@ -33,15 +33,15 @@
 
 ## 🚀 Projects
 - 🎰 **Picks7 - Gambling App** → [picks7.com](https://picks7.com)  
-- ✍️ **AI Blog Generator - BlogXpertAI** → [blogxpert-ai.jaiminraval.me](https://blogxpert-ai.jaiminraval.me)  
+- ✍️ **AI Blog Generator - BlogXpertAI** → [blogxpert-ai.jaiminraval.me](https://blogxpert.jaiminraval.dev)  
 
 ---
 
 ### 📢 Let's Connect!
-🌐 **Personal Website:** [www.jaiminraval.me](https://www.jaiminraval.me)  
+🌐 **Personal Website:** [www.jaiminraval.dev](https://www.jaiminraval.dev)  
 🌐 **S3CloudHub Website:** [www.s3cloudhub.in](https://www.s3cloudhub.in)  
 📺 **YouTube:** [S3CloudHub](https://www.youtube.com/@s3cloudhub)  
-📩 **Email:** [hello@jaiminraval.me](mailto:hello@jaiminraval.me)  
+📩 **Email:** [contact@jaiminraval.dev](mailto:contact@jaiminraval.dev)  
 🐦 **Twitter:** [@JaiminRaval100](https://x.com/JaiminRaval100?t=ZVjx3H-CihfeafrtLlg0ZA&s=09)  
 💼 **LinkedIn:** [Jaimin Raval](https://www.linkedin.com/in/jaimin-raval-132751283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
